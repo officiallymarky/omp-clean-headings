@@ -1,0 +1,13 @@
+{
+  "name": "omp-clean-headings",
+  "version": "0.1.0",
+  "description": "Removes the visible Markdown prefix from H3-H6 headings in OMP.",
+  "author": "officiallymarky",
+  "type": "module",
+  "license": "MIT",
+  "omp": {
+    "extensions": [
+      "./index.ts"
+    ]
+  }
+}
